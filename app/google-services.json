@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21924728640",
+    "firebase_url": "https://alarmnotif2.firebaseio.com",
+    "project_id": "alarmnotif2",
+    "storage_bucket": "alarmnotif2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21924728640:android:275acf1f77cfa238",
+        "android_client_info": {
+          "package_name": "com.example.alarmnotif20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21924728640-eqq950544hn39pe9jsagj2s6lb2j001v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZXjrzNheLHT-NcswT6O2upI-05lWdqhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21924728640-eqq950544hn39pe9jsagj2s6lb2j001v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
